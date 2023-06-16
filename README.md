@@ -2,7 +2,7 @@
 <img src="Home Page.png" width="800px">
 <br>
 <h2>User Registration</h2>
-<img src="User Registration" width="800px">
+<img src="User Registration.png" width="800px">
 <br>
 <h2>Black Spot Entry</h2>
 <img src="Black Spot Entry.png" width="800px">
