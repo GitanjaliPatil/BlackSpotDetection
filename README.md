@@ -1,2 +1,2 @@
 <h1>Black Spot Detection</h1>
-<img src="Home Page.png">
+<img src="Home Page.png" width="400px">
